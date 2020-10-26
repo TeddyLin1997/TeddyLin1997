@@ -11,13 +11,13 @@
 
 - 🐬 dolphin
   > It's my personal web
-  - `Vue.js`, `Sass`, `Element UI`, `FontAwesomeIcon`
+  - `Vue.js`, `Sass`, `Element UI`
   
 - 👤 Vue-Dcard
   > Practice the Dcard that be created with Vue.js,
   > Don't use any UI framework library,
   > and create some components by myself.
-  - `Vue2`, `Vuex`, `Vue router`, `VueFontAwesomeIcon`, `Firebase-database`, `Firebase-Authentication`
+  - `Vue2`, `Vuex`, `Vue router`, `Firebase-database`, `Firebase-Authentication`
 
 - 👑 JavaScript
   > About some javascript practice
