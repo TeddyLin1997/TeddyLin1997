@@ -11,7 +11,7 @@
   > and create some components by myself.
   
 - 🌟 JavaScript
-  > `About some javascript practice`
+  > About some javascript practice
   
 - 📧 LikeTalk
-  > `A Easy multiple online chat room`
+  > A Easy multiple online chat room
