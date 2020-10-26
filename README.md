@@ -10,8 +10,7 @@
 ### My Project
 
 - 🐬 dolphin
-  > It's my personal web
-
+  > It's my personal web.
   >`Vue.js`, `Sass`, `Element UI`
 
 - 👤 Vue-Dcard
