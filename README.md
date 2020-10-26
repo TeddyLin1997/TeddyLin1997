@@ -1,4 +1,11 @@
 ### Chris Lin
+🎂 23 year old
+
+🌿 Web Frontend Engineer
+
+🚩 Taiwan Taichang
+
+🛠 One year of software development experience
 
 ### My Project
 
@@ -10,8 +17,8 @@
   > Don't use any UI framework library,
   > and create some components by myself.
   
-- 🌟 JavaScript
+- 👑 JavaScript
   > About some javascript practice
   
-- 📧 LikeTalk
+- 🍀 LikeTalk
   > A Easy multiple online chat room
