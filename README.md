@@ -1,13 +1,13 @@
-### Chris Lin 🦈
+### 🦈 Chris Lin 
 🎂  23 year old
 
 🌿  Web Frontend Engineer - work for Backstage management system
 
-🏰  Taiwan Taichang
+🍁  Taiwan Taichang
 
-🚀  One year of software development experience
+💼  One year of software development experience
 
-### Skills 🛠
+### 🚀 Skills 
 - `JavaScript (ES6)`
 - `Vue.js`, `Vuex`, `Vue router`
 - `CSS`, `Sass`
