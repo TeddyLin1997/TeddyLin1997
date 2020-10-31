@@ -12,4 +12,4 @@
 - `Vue.js`, `Vuex`, `Vue router`
 - `CSS`, `Sass`
 - `Firebase`, `database`, `Authentication`
-- `web Socket`, `Node Express`
+- `Web Socket`, `Node Express`
