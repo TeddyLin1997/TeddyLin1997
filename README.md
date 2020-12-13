@@ -9,7 +9,6 @@
 
 ### 🚀 Skills 
 - `JavaScript (ES6)`
-- `Vue.js`, `Vuex`, `Vue router`
-- `CSS`, `Sass`
-- `Firebase`, `database`, `Authentication`
+- `Vue.js`
+- `Firebase` => `database`, `Authentication`
 - `Web Socket`, `Node Express`
