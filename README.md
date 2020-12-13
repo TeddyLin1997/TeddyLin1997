@@ -10,5 +10,4 @@
 ### 🚀 Skills 
 - `JavaScript (ES6)`
 - `Vue.js`
-- `Firebase` => `database`, `Authentication`
-- `Web Socket`, `Node Express`
+- `Firebase`, `Web Socket`, `Node Express`
