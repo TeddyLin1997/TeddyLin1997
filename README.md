@@ -8,6 +8,6 @@
 - 💼  One year of software development experience
 
 ### 🚀 Skills 
-- `JavaScript (ES6)`
-- `Vue.js`
-- `Firebase`, `Web Socket`, `Node Express`
+- `JavaScript (ES6)`, `Python`
+- `Vue.js`, `Node Express`, `Django`
+- `Docker`, `Firebase`, `Web Socket`, 
