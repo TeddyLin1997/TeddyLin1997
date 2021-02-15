@@ -9,7 +9,7 @@
 
 ### 🚀 Skills 
 - `JavaScript (ES6)`, `Python`
-- `Vue.js`, `Node Express`, `Django`
+- `Vue.js`, `Django`
 - `Docker`, `Firebase`, `Web Socket`
 
 ### Project
