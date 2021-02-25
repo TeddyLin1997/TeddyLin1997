@@ -1,6 +1,6 @@
 
-# Chris Lin <code><a href="mailto:i100308326@gmail.com"><img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
-
+# Chris Lin 
+<code><a href="mailto:i100308326@gmail.com"><img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
 ![](https://komarev.com/ghpvc/?username=ChrisLin1997&color=brightgreen)
 
 - 🎂  23 year old
