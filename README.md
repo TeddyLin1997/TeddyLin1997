@@ -4,13 +4,9 @@
 
 ![vis](https://komarev.com/ghpvc/?username=ChrisLin1997&color=brightgreen)
 
-
 - 🎂  23 year old
-
-- 🌿  Web Frontend Engineer - work for Backstage management system
-
+- 🌿  Web Frontend Engineer
 - 🍁  Taiwan Taichang
-
 - 💼  One year of software development experience
 
 ## languages & tools
