@@ -1,4 +1,6 @@
-### 🦈 Chris Lin 
+![](https://komarev.com/ghpvc/?username=ChrisLin1997&color=brightgreen)
+
+# Chris Lin 
 - 🎂  23 year old
 
 - 🌿  Web Frontend Engineer - work for Backstage management system
@@ -17,5 +19,4 @@
 - [cash-flow](https://github.com/ChrisLin1997/cash-flow)
 - [Reproduce-Dcard](https://chrislin1997.github.io/Vue-Dcard/)
 
-
-![](https://komarev.com/ghpvc/?username=ChrisLin1997&color=brightgreen)
+![ChrisLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisLin1997&show_icons=true&theme=gruvbox)
