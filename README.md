@@ -14,6 +14,7 @@
 
 ### Project
 - [inspect-element](https://chrome.google.com/webstore/detail/inspect-element/flgcpmeleoikcibkiaiindbcjeldcogp)
+- [cash-flow](https://github.com/ChrisLin1997/cash-flow)
 - [Reproduce-Dcard](https://chrislin1997.github.io/Vue-Dcard/)
 
 
