@@ -5,7 +5,7 @@
   
 ![ChrisLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisLin1997&show_icons=true&theme=gruvbox)
 
-## Languages & Tools
+# Languages & Tools
 
 ### FrontEnd
 <code><img height="28" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
@@ -14,7 +14,6 @@
 <code><img height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <br/>
 <br/>
-<code><img height="28" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"></code>
 <code><img height="28" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></code>
 <code><img height="28" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="28" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code>
