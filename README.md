@@ -1,7 +1,6 @@
 
 # Chris Lin 
 <code><a href="mailto:i100308326@gmail.com"><img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
-![](https://komarev.com/ghpvc/?username=ChrisLin1997&color=brightgreen)
   
 ![ChrisLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisLin1997&show_icons=true&theme=gruvbox)
 
