@@ -34,8 +34,9 @@
 <code><img height="28" src="https://img.shields.io/badge/GitHub%20Actions-222222?style=for-the-badge&logo=GitHub&logoColor=white"></code>
 
 # Project
-- [SoFinX](https://btsb.sofinx.otso-dev.com/)
+- [SoFinX](https://broker.sofinx.com/)
 - [inspect-element](https://chrome.google.com/webstore/detail/inspect-element/flgcpmeleoikcibkiaiindbcjeldcogp)
 - [Binance](https://chris-binance.herokuapp.com/)
+- [Sui-network-mint-token](https://chrislin1997.github.io/sui-mint-token/)
 - [Dcard](https://chrislin1997.github.io/Vue-Dcard/)
-- [cash-flow](https://github.com/ChrisLin1997/cash-flow)
+- [Cash-Flow](https://github.com/ChrisLin1997/cash-flow)
