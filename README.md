@@ -36,10 +36,10 @@
 
 # Project
 
-- <a href="https://broker.sofinx.com/" target="__blank">SoFinX</a>
-- <a href="https://chrome.google.com/webstore/detail/inspect-element/flgcpmeleoikcibkiaiindbcjeldcogp" target="__blank">inspect-element</a>
-- <a href="https://chrislin1997.github.io/sui-mint-token/" target="__blank">Sui-network-mint-token(Sui目前只提供開發網，更新時會清空鏈上資訊，可能導致無用)</a>
-- <a href="https://github.com/ChrisLin1997/ETH-trade-bot" target="__blank">Binance-ETHBUSD-tradebot</a>
-- <a href="https://chris-binance.herokuapp.com/" target="__blank">Binance(reprod)</a>
-- <a href="https://chrislin1997.github.io/Vue-Dcard/" target="__blank">Dcard(reprod)</a>
-- <a href="https://github.com/ChrisLin1997/cash-flow" target="__blank">Cash-Flow</a>
+- <a href="https://broker.sofinx.com/" target="_blank">SoFinX</a>
+- <a href="https://chrome.google.com/webstore/detail/inspect-element/flgcpmeleoikcibkiaiindbcjeldcogp" target="_blank">inspect-element</a>
+- <a href="https://chrislin1997.github.io/sui-mint-token/" target="_blank">Sui-network-mint-token(Sui目前只提供開發網，更新時會清空鏈上資訊，可能導致無用)</a>
+- <a href="https://github.com/ChrisLin1997/ETH-trade-bot" target="_blank">Binance-ETHBUSD-tradebot</a>
+- <a href="https://chris-binance.herokuapp.com/" target="_blank">Binance(reprod)</a>
+- <a href="https://chrislin1997.github.io/Vue-Dcard/" target="_blank">Dcard(reprod)</a>
+- <a href="https://github.com/ChrisLin1997/cash-flow" target="_blank">Cash-Flow</a>
