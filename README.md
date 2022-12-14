@@ -38,8 +38,9 @@
 
 - [SoFinX](https://broker.sofinx.com/)
 - [inspect-element](https://chrome.google.com/webstore/detail/inspect-element/flgcpmeleoikcibkiaiindbcjeldcogp)
-- [Sui-network-mint-token](https://chrislin1997.github.io/sui-mint-token/) (Sui目前只提供開發網，更新時會清空鏈上資訊，可能導致無用)
+- [IG-reach-analysis](https://chrislin1997.github.io/instagram-reach-analysis/)
 - [Binance-ETHBUSD-tradebot](https://github.com/ChrisLin1997/ETH-trade-bot)
 - [Binance(reprod)](https://binance-reprod.herokuapp.com/)
 - [Dcard(reprod)](https://chrislin1997.github.io/Vue-Dcard/)
+- [Sui-network-mint-token](https://chrislin1997.github.io/sui-mint-token/) (Sui目前只提供開發網，更新時會清空鏈上資訊，可能導致無用)
 - [Cash-Flow](https://github.com/ChrisLin1997/cash-flow)
