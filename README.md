@@ -38,7 +38,6 @@
 
 - [SoFinX](https://broker.sofinx.com/)
 - [inspect-element](https://chrome.google.com/webstore/detail/inspect-element/flgcpmeleoikcibkiaiindbcjeldcogp)
-- [IG-reach-analysis](https://chrislin1997.github.io/instagram-reach-analysis/)
 - [Binance-ETHBUSD-tradebot](https://github.com/ChrisLin1997/ETH-trade-bot)
 - [Binance(reprod)](https://binance-reprod.herokuapp.com/)
 - [Dcard(reprod)](https://chrislin1997.github.io/Vue-Dcard/)
