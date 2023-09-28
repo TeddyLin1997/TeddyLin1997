@@ -36,9 +36,7 @@
 
 # Project
 
+- [Strategle](https://strategle-ceb4ef33a51c.herokuapp.com/)
 - [SoFinX](https://broker.sofinx.com/)
 - [inspect-element](https://chrome.google.com/webstore/detail/inspect-element/flgcpmeleoikcibkiaiindbcjeldcogp)
 - [Binance-ETHBUSD-tradebot](https://github.com/ChrisLin1997/ETH-trade-bot)
-- [Binance(reprod)](https://binance-reprod.herokuapp.com/)
-- [Dcard(reprod)](https://chrislin1997.github.io/Vue-Dcard/)
-- [Cash-Flow](https://github.com/ChrisLin1997/cash-flow)
