@@ -2,7 +2,7 @@
 # Teddy Lin 
 <code><a href="mailto:i100308326@gmail.com"><img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
   
-![ChrisLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisLin1997&show_icons=true&theme=gruvbox)
+![ChrisLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyLin1997&show_icons=true&theme=gruvbox)
 
 # Languages & Tools
 
