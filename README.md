@@ -9,9 +9,9 @@
 ### Frontend
 <code><img height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="28" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<code><img height="28" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></code>
 <code><img height="28" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=1a74ba"></code>
 <code><img height="28" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"></code>
-<code><img height="28" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
 
 <!-- ### Backend -->
 <!-- <code><img height="28" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></code> -->
@@ -23,7 +23,7 @@
 ### BlockChain
 <code><img height="28" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"></code>
 <code><img height="28" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"></code>
-<code><img height="28" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"></code>
+<code><img height="28" src="https://img.shields.io/badge/Ethers.js-2535a0?style=for-the-badge&logo=ethers.js&logoColor=white"></code>
 <code><img height="28" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge"></code>
 
 ### Others
@@ -32,11 +32,11 @@
 <code><img height="28" src="https://img.shields.io/badge/GitHub%20Actions-222222?style=for-the-badge&logo=GitHub&logoColor=white"></code>
 <code><img height="28" src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59"></code>
 <code><img height="28" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"></code>
+<code><img height="28" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></code>
 
 
 # Project
 
-- [Strategle](https://strategle-ceb4ef33a51c.herokuapp.com/)
-- [SoFinX](https://broker.sofinx.com/)
-- [inspect-element](https://chrome.google.com/webstore/detail/inspect-element/flgcpmeleoikcibkiaiindbcjeldcogp)
-- [Binance-ETHBUSD-tradebot](https://github.com/ChrisLin1997/ETH-trade-bot)
+- [Strategle](https://www.strategle.tech/): A Decentralized Finance Bank Application, that provides financial markets, economic news updates, and Web3 profit-sharing protocols.
+- [inspect-element](https://chrome.google.com/webstore/detail/inspect-element/flgcpmeleoikcibkiaiindbcjeldcogp): Chrome Extension, Like devtool and more convenient for inspecting web page elements
+- [Binance-ETHBUSD-tradebot](https://github.com/ChrisLin1997/ETH-trade-bot): ETH tradebot use Binance-API
