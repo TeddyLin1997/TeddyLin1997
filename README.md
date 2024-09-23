@@ -41,8 +41,8 @@
 - [fuel-dapp-implement](https://fuel-dapp-implement.vercel.app): Sample implement dapp on Fuel-network, what the rollup OS for Ethereum. 
 - [Binance-ETHBUSD-tradebot](https://github.com/ChrisLin1997/ETH-trade-bot): ETH tradebot use Binance-API.
 
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=TeddyLin1997&repo=TeddyLin1997&countColorcountColor&countColor=%2309A582)
+
