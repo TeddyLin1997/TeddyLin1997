@@ -1,3 +1,4 @@
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=TeddyLin1997&repo=TeddyLin1997&countColorcountColor&countColor=%2309A582)
 
 # Teddy Lin 
 <code><a href="mailto:i100308326@gmail.com"><img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
