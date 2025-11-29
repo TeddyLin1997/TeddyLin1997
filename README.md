@@ -1,7 +1,7 @@
 # Teddy Lin 
 <code><a href="mailto:i100308326@gmail.com"><img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
   
-![ChrisLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyLin1997&show_icons=true&theme=gruvbox)
+![TeddyLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyLin1997&show_icons=true&theme=gruvbox)
 
 # Languages & Tools
 
@@ -35,7 +35,7 @@
 
 
 # Project
-- [Strategle](https://strategle-588548f31d3a.herokuapp.com/market): A Decentralized Finance Application.
+- [OneBase](https://onebase-3c3febc45b41.herokuapp.com/): One-Stop Asset Management.
 - [Crypto-Wallet](https://chromewebstore.google.com/detail/diver-wallet/pdlocjdlejekdbpghdcmedeacpkfiiof/related?utm_source=ext_app_menu): A Crypto Wallet support BTC, ETH, DIV address.
 - [inspect-element](https://chrome.google.com/webstore/detail/inspect-element/flgcpmeleoikcibkiaiindbcjeldcogp): Chrome Extension, Like devtool and more convenient for inspecting web page elements.
 - [fuel-dapp-implement](https://fuel-dapp-implement.vercel.app): Sample implement dapp on Fuel-network, what the rollup OS for Ethereum. 
