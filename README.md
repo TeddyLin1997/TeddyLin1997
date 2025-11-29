@@ -38,8 +38,6 @@
 - [OneBase](https://onebase-3c3febc45b41.herokuapp.com/): One-Stop Asset Management.
 - [Crypto-Wallet](https://chromewebstore.google.com/detail/diver-wallet/pdlocjdlejekdbpghdcmedeacpkfiiof/related?utm_source=ext_app_menu): A Crypto Wallet support BTC, ETH, DIV address.
 - [inspect-element](https://chrome.google.com/webstore/detail/inspect-element/flgcpmeleoikcibkiaiindbcjeldcogp): Chrome Extension, Like devtool and more convenient for inspecting web page elements.
-- [fuel-dapp-implement](https://fuel-dapp-implement.vercel.app): Sample implement dapp on Fuel-network, what the rollup OS for Ethereum. 
-- [Binance-ETHBUSD-tradebot](https://github.com/ChrisLin1997/ETH-trade-bot): ETH tradebot use Binance-API.
 
 <br/>
 <br/>
