@@ -1,10 +1,6 @@
 # Teddy Lin 
 <code><a href="mailto:i100308326@gmail.com"><img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
   
-![TeddyLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyLin1997&show_icons=true&theme=gruvbox)
-
-# Languages & Tools
-
 ### Frontend
 <code><img height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="28" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
