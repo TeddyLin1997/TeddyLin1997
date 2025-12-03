@@ -44,14 +44,21 @@
   <span>: quickly participate in new blockchain testnets and mainnets. Deploy and interact your smart contracts.</span>
 </div>
 
-- [Crypto-Wallet](https://chromewebstore.google.com/detail/diver-wallet/pdlocjdlejekdbpghdcmedeacpkfiiof/related?utm_source=ext_app_menu): A Crypto Wallet support BTC, ETH, DIV address.
+<br/>
+
+<div style="display:flex;">
+  <a style="display:block;" href="https://chromewebstore.google.com/detail/diver-wallet/pdlocjdlejekdbpghdcmedeacpkfiiof/related?utm_source=ext_app_menu" target="__blank">Crypto-Wallet</a>
+  <span>: A Crypto Wallet support BTC, ETH, DIV address.</span>
+</div>
 
 <br/>
 
-- [inspect-element](https://chrome.google.com/webstore/detail/inspect-element/flgcpmeleoikcibkiaiindbcjeldcogp): Chrome Extension, Like devtool and more convenient for inspecting web page elements.
+<div style="display:flex;">
+  <a style="display:block;" href="https://chrome.google.com/webstore/detail/inspect-element/flgcpmeleoikcibkiaiindbcjeldcogp" target="__blank">inspect-element</a>
+  <span>: Chrome Extension, Like devtool and more convenient for inspecting web page elements.</span>
+</div>
 
 <br/>
-
 <br/>
 <br/>
 
