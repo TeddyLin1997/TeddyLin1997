@@ -45,7 +45,7 @@
 
 <div style="display:flex;">
   <img height="24" src="https://diamond-lock-onebase.zeabur.app/icon.svg">
-  <a style="display:block;" href="https://diamond-lock-onebase.zeabur.app" target="__blank">AirDrop-Hunter</a>
+  <a style="display:block;" href="https://diamond-lock-onebase.zeabur.app" target="__blank">Diamond Lock</a>
   <span>: A decentralized time-lock vault for long-term holders.</span>
 </div>
 
