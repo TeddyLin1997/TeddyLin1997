@@ -5,8 +5,6 @@
 <code><img height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="28" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="28" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></code>
-<code><img height="28" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=1a74ba"></code>
-<code><img height="28" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"></code>
 
 <!-- ### Backend -->
 <!-- <code><img height="28" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></code> -->
@@ -27,7 +25,6 @@
 <code><img height="28" src="https://img.shields.io/badge/GitHub%20Actions-222222?style=for-the-badge&logo=GitHub&logoColor=white"></code>
 <code><img height="28" src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59"></code>
 <code><img height="28" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"></code>
-<code><img height="28" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></code>
 
 # Project
 <div style="display:flex;">
